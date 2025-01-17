@@ -8,4 +8,4 @@ public class addition {
         double num2 = sc.nextDouble();
         System.out.println(num1 - num2);
     }
-}git add .
+}
