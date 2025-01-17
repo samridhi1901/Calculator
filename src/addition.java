@@ -6,6 +6,6 @@ public class addition {
         double num1 = sc.nextDouble();
         System.out.println("Enter second number:");
         double num2 = sc.nextDouble();
-        System.out.println(num1 + num2);
+        System.out.println(num1 - num2);
     }
-}
+}git add .
